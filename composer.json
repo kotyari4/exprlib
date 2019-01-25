@@ -1,5 +1,5 @@
 {
-    "name": "shcherbanich/exprlib",
+    "name": "kotyari4/exprlib",
     "keywords": ["math", "expressions"],
     "homepage": "https://github.com/kotyari4/exprlib",
     "description": "An expression parser in PHP",
