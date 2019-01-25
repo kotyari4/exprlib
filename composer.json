@@ -1,7 +1,7 @@
 {
     "name": "shcherbanich/exprlib",
     "keywords": ["math", "expressions"],
-    "homepage": "https://github.com/shcherbanich/exprlib",
+    "homepage": "https://github.com/kotyari4/exprlib",
     "description": "An expression parser in PHP",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
             "homepage": "http://codehackit.blogspot.fr/"
         },{
             "name": "Community contributors",
-            "homepage": "https://github.com/shcherbanich/exprlib"
+            "homepage": "https://github.com/kotyari4/exprlib"
         }
     ],
     "require": {
